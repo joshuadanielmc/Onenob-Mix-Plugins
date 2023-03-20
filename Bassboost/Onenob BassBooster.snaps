@@ -1,0 +1,18 @@
+{
+    "Test 2": {
+        "form": 0.0,
+        "image10002": 0.0,
+        "rslider4": 1.9600000381469727,
+        "label10001": 0.0,
+        "filebutton10": 0.0,
+        "filebutton11": 0.0
+    },
+    "Default": {
+        "form": 0.0,
+        "image10002": 0.0,
+        "rslider4": 1.0,
+        "label10001": 0.0,
+        "filebutton10": 0.0,
+        "filebutton11": 0.0
+    }
+}
