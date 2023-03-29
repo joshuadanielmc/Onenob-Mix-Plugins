@@ -13,6 +13,9 @@ into a digital audio workstation (DAW) workflow. Inspired by Waves OneKnob serie
 One of the main aspect of these plugins is that they have a single knob to control the effect, 
 making them beginner-friendly.
 
+![Onenob Plugins](https://user-images.githubusercontent.com/125342506/228647882-800e0b8e-7b23-4bbf-bcb5-a48f468a98a7.png)
+
+
 The 10 plugins in the Onenob series are:
 
  - Onenob Sparkle
