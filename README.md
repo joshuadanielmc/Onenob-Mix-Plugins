@@ -15,16 +15,16 @@ making them beginner-friendly.
 
 The 10 plugins in the Onenob series are:
 
- Onenob Sparkle
- Onenob Deep Bass
- Onenob Mid
- Onenob HFilter
- Onenob LFilter
- Onenob Compress
- Onenob Delay
- Onenob Ambient
- Onenob Distort
- Onenob Weirdo\newline
+ - Onenob Sparkle
+ - Onenob Deep Bass
+ - Onenob Mid
+ - Onenob HFilter
+ - Onenob LFilter
+ - Onenob Compress
+ - Onenob Delay
+ - Onenob Ambient
+ - Onenob Distort
+ - Onenob Weirdo
 
 
 Each plugin offers a unique audio processing effect, including parametric equalization,
